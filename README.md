@@ -14,7 +14,7 @@ Las losowy z naiwnym klasyfikatorem bayesowskim (NBC) w zadaniu klasyfikacji. Po
 
   💠 05.11 -> wybór tematu projektu ✅ (19.10.2023r.)
   
-  💠 19.11 -> przesłanie założeń wstępnych (dokumentacji wstępnej) ❌
+  💠 19.11 -> przesłanie założeń wstępnych (dokumentacji wstępnej) ✅ (18.11.2023r.) - ocena: 10/10pkt 
   
   💠 21.01 -> przysłanie kodu oraz dokumentacji końcowej ❌
   
